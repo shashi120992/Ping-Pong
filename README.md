@@ -5,5 +5,3 @@
 - **Difficulty**: Beginner
 - **Topics**: Physics, AI
 - **Version**: Unity 2019.4 LTS
-- [**Download**](https://github.com/zigurous/unity-pong-tutorial/archive/refs/heads/main.zip)
-- [**Watch Video**](https://youtu.be/AcpaYq0ihaM)
