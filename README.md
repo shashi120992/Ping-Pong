@@ -4,7 +4,7 @@
 
 ## Some of the used concepts
 * **Used a Unity AI for Computer Paddle**
-* **Used unity Inheritance to inherit same behavior
+* **Used unity Inheritance to inherit same behavior**
   * Player Paddle
   * Computer Paddle
 * **Used Unity physics and grid system for movement of ball and paddle**
